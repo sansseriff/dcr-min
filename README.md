@@ -1,6 +1,5 @@
 # dcr-min
-
-Brief description: Replace this paragraph with a short overview of your dataset and experiment goals. Include links to data sources if public, and summarize the key questions you answer.
+Code and figures for the paper "Free-space coupled superconducting nanowire single-photon detector with low dark counts"
 
 ## Quick install
 
@@ -57,17 +56,6 @@ Integrity (SHA256 of dl.sh):
 
 <!-- QUICK_INSTALL_END -->
 
-## Project notes
-
-- Data: Describe where data comes from and any preprocessing requirements.
-- Experiment: Outline the main analysis/experiment steps and expected outputs.
-- Environment: Dependencies are managed with uv (see dl-util/install_and_sync.sh for details).
-
-## Next steps
-
-- Edit this README to document your specific analysis.
-- See the original template guide in README.template.md for advanced usage and maintenance tips.
-- Optionally delete the template_images/ folder in dl-util/ and the README.template.md. (but don't delete other files in dl-util/)
 
 ## uv Usage hints
 
