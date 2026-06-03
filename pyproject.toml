@@ -1,5 +1,5 @@
 [project]
-name = "single-stage-to-jupyter"
+name = "dcr-min"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -9,7 +9,8 @@ dependencies = [
     "matplotlib>=3.10.1",
     "nbstripout>=0.8.0",
     "numpy>=1.26.4",
-    "pandas>=2.2.4",
+    "scipy>=1.17.1",
+    "snsphd>=0.2.5",
 ]
 
 [dependency-groups]
